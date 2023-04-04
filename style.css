@@ -1,0 +1,7 @@
+.container {
+    height: 90vh;
+    background-image: url('pexels-eberhard-grossgasteiger-12366150.jpg');
+       background-repeat: no-repeat;
+       background-size: cover;
+       font-family: 'Golos Text', sans-serif;
+}
