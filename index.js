@@ -31,7 +31,7 @@ return false;
 else {
 emailjs
 .send(serviceID,templateID,params)
-.then  //empty the fields
+.then  //emptying the fields
   (document.getElementById("uname").value="",
 document.getElementById("email").value="",
 document.getElementById("message").value="")
